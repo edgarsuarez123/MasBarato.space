@@ -1,6 +1,7 @@
 # MasBarato.space
 
 Descripción del Proyecto:
+
 Durante este proyecto, nuestro objetivo es poder conocer la temperatura de salones que sean elegidos.
 Esto se logrará a través de un ESP-32 con sensores de temperatura y proximidad. Toda la data recopilada 
 por estos sensores será enviada al ESP-32.El cual estará conectado a un servidor o interface (ubuntu). 
