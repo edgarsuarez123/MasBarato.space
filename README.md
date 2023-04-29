@@ -2,9 +2,9 @@
 
 Descripción del Proyecto:
 
-Durante este proyecto, nuestro objetivo es poder conocer la temperatura de salones que sean elegidos.
-Esto se logrará a través de un ESP-32 con sensores de temperatura y proximidad. Toda la data recopilada 
-por estos sensores será enviada al ESP-32.El cual estará conectado a un servidor o interface (ubuntu). 
+Durante este proyecto, nuestro objetivo es poder conocer la temperatura y cantidad de personas en el salón 
+que sea elegido.Esto se logrará a través de un ESP-32 con sensores de temperatura y proximidad. Toda la data 
+recopilada por estos sensores será enviada al ESP-32. El cual estará conectado a un servidor o interface (ubuntu). 
 De esta forma los usuarios que esten conectados al servidor podrán preguntarle a Siri o a Google
 (dependiendo de su formato operativo) cual es la temperatura del salón. 
 
