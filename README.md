@@ -1,5 +1,5 @@
 # MasBarato.space
-Título del Proyecto: ¿Cual es la Temperatura?
+Título del Proyecto: ¿Cual es la Temperatura y Capacidad?
 
 Colaboradores: Carlos Curet, Edgar Suarez, Rubén Torres
 
