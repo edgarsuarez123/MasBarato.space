@@ -23,7 +23,7 @@ manera sencilla nuestra página web donde se verán los datos de la temperatura.
 recopilados y estos se pueden ver en Studio 3T.
 
 Todo se podrá programar y hacer posible utilizando las herramientas de organización que github nos ofrece 
-para poryectos en grupos como este. Donde lo más útil es poder diluir el trabajo entre los miembros del
+para proyectos en grupos como este. Donde lo más útil es poder diluir el trabajo entre los miembros del
 grupo. Para de esta forma poder trabajar en diferentes áreas de manera simultánea. 
 
 Copyright (c) [2023] [Carlos Curet, Edgar Suarez, Rubén Torres]
