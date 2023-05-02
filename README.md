@@ -8,7 +8,7 @@ Descripción del Proyecto:
 Durante este proyecto, nuestro objetivo es poder conocer la temperatura y cantidad de personas en el salón 
 que sea elegido. Esto se logrará a través de un ESP-8266 con sensores de temperatura y proximidad. Toda la data 
 recopilada por estos sensores será enviada al ESP-8266. El cual estará conectado a un servidor o interface (ubuntu). 
-De esta forma, como la indormación va a estar en el servidor los usuarios podrán preguntarle a Siri o a Google
+De esta forma, como la información va a estar en el servidor los usuarios podrán preguntarle a Siri o a Google
 (dependiendo de su formato operativo) cual es la temperatura del salón y su capacidad. 
 
 Este proyecto se llevará a cabo utilizando herramientas como Github, Node-Red, VS-code, Powershell,
